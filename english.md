@@ -1,8 +1,10 @@
-**Professor Choi Dong-sik of Korea University, Offering a Breakthrough in Stalled Superconductivity Research**
+# Professor Choi Dong-sik of Korea University, Offering a Breakthrough in Stalled Superconductivity Research
 
 *Text by Kim Du-hee / Photos by Reporter Lee Jong-seung*
 
-"I would like to point out that the existing BCS theory, which interprets superconductivity, is incorrect."
+Donga Science, September 1993, pp. 106-107.
+
+*"I would like to point out that the existing BCS theory, which interprets superconductivity, is incorrect."*
 
 In the late 1980s, the world's scientific community was seized with a fever for superconductivity. Following the computer revolution, scientists overwhelmingly endorsed "superconductivity" as a scientific revolution that would culminate the 20th century. This was because the development of superconductors could address the pressing issue of energy, a challenge faced by humanity.
 
